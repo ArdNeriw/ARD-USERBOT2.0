@@ -1,8 +1,8 @@
-<p align="center">⚡️𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
+<p align="center">💠 𝗕𝗨𝗗𝗗𝗬 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 💠</p>
 
-<img src="https://graph.org/file/c6a2ed96648fd03377dc9.jpg">
+<img src="https://telegra.ph/file/a1bd4ceded8023f04fc0b.jpg">
 
-<p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
+<p align="center">💠 𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 💠</p>
 
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
